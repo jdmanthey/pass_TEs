@@ -1,83 +1,83 @@
-GCA_016904835.1	GCA_016904835.1_bAcaChl1.pri_genomic.fna	Acan_chlo	Acanthisitta_chloris
-GCA_037013685.1	GCA_037013685.1_AcTris_vAus2.0_genomic.fna	Acri_tris	Acridotheres_tristis
-GCA_965287075.1	GCA_965287075.1_bAcrPal2.2_genomic.fna	Acro_palu	Acrocephalus_paludicola
-GCA_910950805.1	GCA_910950805.1_RW_assembly_genomic.fna	Acro_scir	Acrocephalus_scirpaceus
-GCA_977066295.1	GCA_977066295.1_bAegCau2.hap1.1_genomic.fna	Aegi_caud	Aegithalos_caudatus
-GCF_051311805.1	GCF_051311805.1_bAgePho1.hap1_genomic.fna	Agel_phoe	Agelaius_phoeniceus
-GCF_027887145.1	GCF_027887145.1_bAmmCau1.pri_genomic.fna	Ammo_caud	Ammospiza_caudacuta
-GCA_036010785.1	GCA_036010785.1_bAmmMar1.pri_genomic.fna	Ammo_mari	Ammospiza_maritima
-GCF_027579445.1	GCF_027579445.1_bAmmNel1.pri_genomic.fna	Ammo_nels	Ammospiza_nelsoni
-GCF_031753505.1	GCF_031753505.1_ASM3175350v1_genomic.fna	Anom_imbe	Anomalospiza_imberbis
-GCF_041296385.1	GCF_041296385.1_UR_Acoe_1.0_genomic.fna	Aphe_coer	Aphelocoma_coerulescens
-GCA_039654755.1	GCA_039654755.1_RI_Cla_1.0_genomic.fna	Calc_lapp	Calcarius_lapponicus
-GCF_901933205.1	GCF_901933205.1_STF_HiC_genomic.fna	Cama_parv	Camarhynchus_parvulus
-GCF_009819885.2	GCF_009819885.2_bCatUst1.pri.v2_genomic.fna	Cath_ustu	Catharus_ustulatus
-GCA_018697195.1	GCA_018697195.1_ASM1869719v1_genomic.fna	Cert_amer	Certhia_americana
-GCF_009829145.1	GCF_009829145.1_bChiLan1.pri_genomic.fna	Chir_lanc	Chiroxiphia_lanceolata
-GCF_963662255.1	GCF_963662255.1_bCinCin1.1_genomic.fna	Cinc_cinc	Cinclus_cinclus
-GCA_965649865.1	GCA_965649865.1_bCocCoc1.h1_genomic.fna	Cocc_cocc	Coccothraustes_coccothraustes
-GCA_013407035.1	GCA_013407035.1_ASM1340703v1_genomic.fna	Colo_mone	Coloeus_monedula
-GCA_054084125.1	GCA_054084125.1_bCopSec1.hap1_genomic.fna	Cops_sech	Copsychus_sechellarum
-GCF_000738735.6	GCF_000738735.6_ASM73873v6_genomic.fna	Corv_corn	Corvus_cornix
-GCF_020740725.1	GCF_020740725.1_bCorHaw1.pri.cur_genomic.fna	Corv_hawa	Corvus_hawaiiensis
-GCF_009650955.1	GCF_009650955.1_bCorMon1.pri_genomic.fna	Corv_mone	Corvus_moneduloides
-GCA_971803275.1	GCA_971803275.1_bCyaCae1.hap1.1_genomic.fna	Cyan_caer	Cyanistes_caeruleus
-GCA_046129655.1	GCA_046129655.1_bCyaCrs1.hap1_genomic.fna	Cyan_cris	Cyanocitta_cristata
-GCA_019023105.1	GCA_019023105.1_LSU_DiBr_2.0_genomic.fna	Digl_brun	Diglossa_brunneiventris
-GCA_050947545.1	GCA_050947545.1_ASM5094754v1_genomic.fna	Embe_aure	Emberiza_aureola
-GCA_903797595.2	GCA_903797595.2_bEriRub2.2_genomic.fna	Erit_rube	Erithacus_rubecula
-GCF_000247815.1	GCF_000247815.1_FicAlb1.5_genomic.fna	Fice_albi	Ficedula_albicollis
-GCA_963513975.1	GCA_963513975.1_bFriCoe1.1_genomic.fna	Frin_coel	Fringilla_coelebs
-GCA_009764595.1	GCA_009764595.1_bGeoTri1.pri_genomic.fna	Geot_tric	Geothlypis_trichas
-GCF_027477595.1	GCF_027477595.1_bHaeMex1.pri_genomic.fna	Haem_mexi	Haemorhous_mexicanus
-GCF_015227805.2	GCF_015227805.2_bHirRus1.pri.v3_genomic.fna	Hiru_rust	Hirundo_rustica
-GCA_003829775.2	GCA_003829775.2_dark-eyed_junco_22Sep2020_assembly_genomic.fna	Junc_hyem	Junco_hyemalis
-GCA_015883425.2	GCA_015883425.2_CU_Lasu_v2_genomic.fna	Lamp_supe	Lamprotornis_superbus
-GCA_008360975.3	GCA_008360975.3_HeHo_3.0_genomic.fna	Lich_cass	Lichenostomus_cassidix
-GCF_046129695.1	GCF_046129695.1_bLonStr1.mat_genomic.fna	Lonc_stri	Lonchura_striata
-GCA_034336685.1	GCA_034336685.1_ASM3433668v1_genomic.fna	Lusc_lusc	Luscinia_luscinia
-GCA_034336665.1	GCA_034336665.1_ASM3433666v1_genomic.fna	Lusc_mega	Luscinia_megarhynchos
-GCA_014706295.2	GCA_014706295.2_bLycPyr6.2.pri_genomic.fna	Lyco_pyrr	Lycocorax_pyrrhopterus
-GCA_009741485.1	GCA_009741485.1_mCya_1.0_genomic.fna	Malu_cyan	Malurus_cyaneus
-GCF_028018845.1	GCF_028018845.1_bMelGeo1.pri_genomic.fna	Melo_geor	Melospiza_georgiana
-GCF_035770615.1	GCF_035770615.1_bMelMel2.pri_genomic.fna	Melo_melo	Melospiza_melodia
-GCA_042985785.1	GCA_042985785.1_USASK_Mmel_1_genomic.fna	Mimu_mela	Mimus_melanotis
-GCF_037042795.1	GCF_037042795.1_BPBGC_Maene_1.0_genomic.fna	Molo_aene	Molothrus_aeneus
-GCF_012460135.2	GCF_012460135.2_BPBGC_Mater_1.1_genomic.fna	Molo_ater	Molothrus_ater
-GCF_015832195.1	GCF_015832195.1_Motacilla_alba_V1.0_pri_genomic.fna	Mota_alba	Motacilla_alba
-GCA_051294465.1	GCA_051294465.1_MyzoCard1.0.pri_genomic.fna	Myzo_card	Myzomela_cardinalis
-GCA_051294455.1	GCA_051294455.1_MyzoTris1.0.pri_genomic.fna	Myzo_tris	Myzomela_tristrami
-GCF_029582105.1	GCF_029582105.1_OMel1.0_genomic.fna	Oena_mela	Oenanthe_melanoleuca
-GCF_001522545.3	GCF_001522545.3_Parus_major1.1_genomic.fna	Paru_majo	Parus_major
-GCF_036417665.1	GCF_036417665.1_bPasDom1.hap1_genomic.fna	Pass_dome	Passer_domesticus
-GCA_031885435.1	GCA_031885435.1_bPasSan2.pri_genomic.fna	Pass_sand	Passerculus_sandwichensis
-GCA_032357785.1	GCA_032357785.1_ASM3235778v1_genomic.fna	Peri_ater	Periparus_ater
-GCA_048593965.1	GCA_048593965.1_ASM4859396v1_genomic.fna	Phyl_troc	Phylloscopus_trochiloides
-GCF_047495875.1	GCF_047495875.1_PitAlb_v1_genomic.fna	Pith_albi	Pithys_albifrons
-GCF_030490865.1	GCF_030490865.1_bPoeAtr1.hap1_genomic.fna	Poec_atri	Poecile_atricapillus
-GCA_038429875.2	GCA_038429875.2_ASM3842987v2_genomic.fna	Poec_mont	Poecile_montanus
-GCF_021018805.1	GCF_021018805.1_Cam_Psub_1.2_genomic.fna	Prin_subf	Prinia_subflava
-GCA_049639895.1	GCA_049639895.1_ASM4963989v1_genomic.fna	Pseu_humi	Pseudopodoces_humilis
-GCF_036250125.1	GCF_036250125.1_bDixPip1.hap1_genomic.fna	Pseu_pipr	Pseudopipra_pipra
-GCA_038380795.1	GCA_038380795.1_CAS-CDF_Pyrnan_1.0_genomic.fna	Pyro_nanu	Pyrocephalus_nanus
-GCA_965183895.1	GCA_965183895.1_bPyrMur1.1_genomic.fna	Pyrr_muri	Pyrrhula_murina
-GCA_013398505.2	GCA_013398505.2_LSU_RhHo_2.0_genomic.fna	Rheg_hoff	Rhegmatorhina_hoffmannsi
-GCF_022539315.1	GCF_022539315.1_serCan2020_genomic.fna	Seri_cana	Serinus_canaria
-GCA_001746935.2	GCA_001746935.2_mywa_2.1_genomic.fna	Seto_coro	Setophaga_coronata
-GCA_032173965.1	GCA_032173965.1_ASM3217396v1_genomic.fna	Sitt_caro	Sitta_carolinensis
-GCA_053477405.1	GCA_053477405.1_bSpiPin_pri1.0_genomic.fna	Spin_pinu	Spinus_pinus
-GCA_052056855.1	GCA_052056855.1_bStuVul1.hap1_genomic.fna	Stur_vulg	Sturnus_vulgaris
-GCF_009819655.1	GCF_009819655.1_bSylAtr1.pri_genomic.fna	Sylv_atri	Sylvia_atricapilla
-GCA_014839755.1	GCA_014839755.1_bSylBor1.pri_genomic.fna	Sylv_bori	Sylvia_borin
-GCF_048771995.1	GCF_048771995.1_bTaeGut7.mat_genomic.fna	Taen_gutt	Taeniopygia_guttata
-GCA_965287035.1	GCA_965287035.1_bTurIli2.1_genomic.fna	Turd_ilia	Turdus_iliacus
-GCA_965287015.2	GCA_965287015.2_bTurMer3.2_genomic.fna	Turd_meru	Turdus_merula
-GCA_052324695.1	GCA_052324695.1_bTurMig1.hap1_genomic.fna	Turd_migr	Turdus_migratorius
-GCA_965287025.1	GCA_965287025.1_bTurPhi1.1_genomic.fna	Turd_phil	Turdus_philomelos
-GCF_026979565.1	GCF_026979565.1_bVidCha1_merged_haplotype_genomic.fna	Vidu_chal	Vidua_chalybeata
-GCF_024509145.1	GCF_024509145.1_ASM2450914v1_genomic.fna	Vidu_macr	Vidua_macroura
-GCA_045364795.1	GCA_045364795.1_bWilVid1_haplotype_1_genomic.fna	Will_vidu	Willisornis_vidua
-GCF_047830755.1	GCF_047830755.1_bZonAlb1.hap1_genomic.fna	Zono_albi	Zonotrichia_albicollis
-GCA_045269165.1	GCA_045269165.1_RI_Zcap_1.0_genomic.fna	Zono_cape	Zonotrichia_capensis
-GCF_028769735.1	GCF_028769735.1_RI_Zleu_2.0_genomic.fna	Zono_leuc	Zonotrichia_leucophrys
-GCA_965231275.1	GCA_965231275.1_bZosLat1.hap1.1_genomic.fna	Zost_late	Zosterops_lateralis
+GCA_016904835.1	GCA_016904835.1_bAcaChl1.pri_genomic.fna	Acan_chlo	acaChl	Acanthisitta_chloris
+GCA_037013685.1	GCA_037013685.1_AcTris_vAus2.0_genomic.fna	Acri_tris	acrTri	Acridotheres_tristis
+GCA_965287075.1	GCA_965287075.1_bAcrPal2.2_genomic.fna	Acro_palu	acrPal	Acrocephalus_paludicola
+GCA_910950805.1	GCA_910950805.1_RW_assembly_genomic.fna	Acro_scir	acrSci	Acrocephalus_scirpaceus
+GCA_977066295.1	GCA_977066295.1_bAegCau2.hap1.1_genomic.fna	Aegi_caud	aegCau	Aegithalos_caudatus
+GCF_051311805.1	GCF_051311805.1_bAgePho1.hap1_genomic.fna	Agel_phoe	agePho	Agelaius_phoeniceus
+GCF_027887145.1	GCF_027887145.1_bAmmCau1.pri_genomic.fna	Ammo_caud	ammCau	Ammospiza_caudacuta
+GCA_036010785.1	GCA_036010785.1_bAmmMar1.pri_genomic.fna	Ammo_mari	ammMar	Ammospiza_maritima
+GCF_027579445.1	GCF_027579445.1_bAmmNel1.pri_genomic.fna	Ammo_nels	ammNel	Ammospiza_nelsoni
+GCF_031753505.1	GCF_031753505.1_ASM3175350v1_genomic.fna	Anom_imbe	anoImb	Anomalospiza_imberbis
+GCF_041296385.1	GCF_041296385.1_UR_Acoe_1.0_genomic.fna	Aphe_coer	aphCoe	Aphelocoma_coerulescens
+GCA_039654755.1	GCA_039654755.1_RI_Cla_1.0_genomic.fna	Calc_lapp	calLap	Calcarius_lapponicus
+GCF_901933205.1	GCF_901933205.1_STF_HiC_genomic.fna	Cama_parv	camPar	Camarhynchus_parvulus
+GCF_009819885.2	GCF_009819885.2_bCatUst1.pri.v2_genomic.fna	Cath_ustu	catUst	Catharus_ustulatus
+GCA_018697195.1	GCA_018697195.1_ASM1869719v1_genomic.fna	Cert_amer	cerAme	Certhia_americana
+GCF_009829145.1	GCF_009829145.1_bChiLan1.pri_genomic.fna	Chir_lanc	chiLan	Chiroxiphia_lanceolata
+GCF_963662255.1	GCF_963662255.1_bCinCin1.1_genomic.fna	Cinc_cinc	cinCin	Cinclus_cinclus
+GCA_965649865.1	GCA_965649865.1_bCocCoc1.h1_genomic.fna	Cocc_cocc	cocCoc	Coccothraustes_coccothraustes
+GCA_013407035.1	GCA_013407035.1_ASM1340703v1_genomic.fna	Colo_mone	colMon	Coloeus_monedula
+GCA_054084125.1	GCA_054084125.1_bCopSec1.hap1_genomic.fna	Cops_sech	copSec	Copsychus_sechellarum
+GCF_000738735.6	GCF_000738735.6_ASM73873v6_genomic.fna	Corv_corn	corCor	Corvus_cornix
+GCF_020740725.1	GCF_020740725.1_bCorHaw1.pri.cur_genomic.fna	Corv_hawa	corHaw	Corvus_hawaiiensis
+GCF_009650955.1	GCF_009650955.1_bCorMon1.pri_genomic.fna	Corv_mone	corMon	Corvus_moneduloides
+GCA_971803275.1	GCA_971803275.1_bCyaCae1.hap1.1_genomic.fna	Cyan_caer	cyaCae	Cyanistes_caeruleus
+GCA_046129655.1	GCA_046129655.1_bCyaCrs1.hap1_genomic.fna	Cyan_cris	cyaCri	Cyanocitta_cristata
+GCA_019023105.1	GCA_019023105.1_LSU_DiBr_2.0_genomic.fna	Digl_brun	digBru	Diglossa_brunneiventris
+GCA_050947545.1	GCA_050947545.1_ASM5094754v1_genomic.fna	Embe_aure	embAur	Emberiza_aureola
+GCA_903797595.2	GCA_903797595.2_bEriRub2.2_genomic.fna	Erit_rube	eriRub	Erithacus_rubecula
+GCF_000247815.1	GCF_000247815.1_FicAlb1.5_genomic.fna	Fice_albi	ficAlb	Ficedula_albicollis
+GCA_963513975.1	GCA_963513975.1_bFriCoe1.1_genomic.fna	Frin_coel	friCoe	Fringilla_coelebs
+GCA_009764595.1	GCA_009764595.1_bGeoTri1.pri_genomic.fna	Geot_tric	geoTri	Geothlypis_trichas
+GCF_027477595.1	GCF_027477595.1_bHaeMex1.pri_genomic.fna	Haem_mexi	haeMex	Haemorhous_mexicanus
+GCF_015227805.2	GCF_015227805.2_bHirRus1.pri.v3_genomic.fna	Hiru_rust	hirRus	Hirundo_rustica
+GCA_003829775.2	GCA_003829775.2_dark-eyed_junco_22Sep2020_assembly_genomic.fna	Junc_hyem	junHye	Junco_hyemalis
+GCA_015883425.2	GCA_015883425.2_CU_Lasu_v2_genomic.fna	Lamp_supe	lamSup	Lamprotornis_superbus
+GCA_008360975.3	GCA_008360975.3_HeHo_3.0_genomic.fna	Lich_cass	licCas	Lichenostomus_cassidix
+GCF_046129695.1	GCF_046129695.1_bLonStr1.mat_genomic.fna	Lonc_stri	lonStr	Lonchura_striata
+GCA_034336685.1	GCA_034336685.1_ASM3433668v1_genomic.fna	Lusc_lusc	lusLus	Luscinia_luscinia
+GCA_034336665.1	GCA_034336665.1_ASM3433666v1_genomic.fna	Lusc_mega	lusMeg	Luscinia_megarhynchos
+GCA_014706295.2	GCA_014706295.2_bLycPyr6.2.pri_genomic.fna	Lyco_pyrr	lycPyr	Lycocorax_pyrrhopterus
+GCA_009741485.1	GCA_009741485.1_mCya_1.0_genomic.fna	Malu_cyan	malCya	Malurus_cyaneus
+GCF_028018845.1	GCF_028018845.1_bMelGeo1.pri_genomic.fna	Melo_geor	melGeo	Melospiza_georgiana
+GCF_035770615.1	GCF_035770615.1_bMelMel2.pri_genomic.fna	Melo_melo	melMel	Melospiza_melodia
+GCA_042985785.1	GCA_042985785.1_USASK_Mmel_1_genomic.fna	Mimu_mela	mimMel	Mimus_melanotis
+GCF_037042795.1	GCF_037042795.1_BPBGC_Maene_1.0_genomic.fna	Molo_aene	molAen	Molothrus_aeneus
+GCF_012460135.2	GCF_012460135.2_BPBGC_Mater_1.1_genomic.fna	Molo_ater	molAte	Molothrus_ater
+GCF_015832195.1	GCF_015832195.1_Motacilla_alba_V1.0_pri_genomic.fna	Mota_alba	motAlb	Motacilla_alba
+GCA_051294465.1	GCA_051294465.1_MyzoCard1.0.pri_genomic.fna	Myzo_card	myzCar	Myzomela_cardinalis
+GCA_051294455.1	GCA_051294455.1_MyzoTris1.0.pri_genomic.fna	Myzo_tris	myzTri	Myzomela_tristrami
+GCF_029582105.1	GCF_029582105.1_OMel1.0_genomic.fna	Oena_mela	oenMel	Oenanthe_melanoleuca
+GCF_001522545.3	GCF_001522545.3_Parus_major1.1_genomic.fna	Paru_majo	parMaj	Parus_major
+GCF_036417665.1	GCF_036417665.1_bPasDom1.hap1_genomic.fna	Pass_dome	pasDom	Passer_domesticus
+GCA_031885435.1	GCA_031885435.1_bPasSan2.pri_genomic.fna	Pass_sand	pasSan	Passerculus_sandwichensis
+GCA_032357785.1	GCA_032357785.1_ASM3235778v1_genomic.fna	Peri_ater	perAte	Periparus_ater
+GCA_048593965.1	GCA_048593965.1_ASM4859396v1_genomic.fna	Phyl_troc	phyTro	Phylloscopus_trochiloides
+GCF_047495875.1	GCF_047495875.1_PitAlb_v1_genomic.fna	Pith_albi	pitAlb	Pithys_albifrons
+GCF_030490865.1	GCF_030490865.1_bPoeAtr1.hap1_genomic.fna	Poec_atri	poeAtr	Poecile_atricapillus
+GCA_038429875.2	GCA_038429875.2_ASM3842987v2_genomic.fna	Poec_mont	poeMon	Poecile_montanus
+GCF_021018805.1	GCF_021018805.1_Cam_Psub_1.2_genomic.fna	Prin_subf	priSub	Prinia_subflava
+GCA_049639895.1	GCA_049639895.1_ASM4963989v1_genomic.fna	Pseu_humi	pseHum	Pseudopodoces_humilis
+GCF_036250125.1	GCF_036250125.1_bDixPip1.hap1_genomic.fna	Pseu_pipr	psePip	Pseudopipra_pipra
+GCA_038380795.1	GCA_038380795.1_CAS-CDF_Pyrnan_1.0_genomic.fna	Pyro_nanu	pyrNan	Pyrocephalus_nanus
+GCA_965183895.1	GCA_965183895.1_bPyrMur1.1_genomic.fna	Pyrr_muri	pyrMur	Pyrrhula_murina
+GCA_013398505.2	GCA_013398505.2_LSU_RhHo_2.0_genomic.fna	Rheg_hoff	rheHof	Rhegmatorhina_hoffmannsi
+GCF_022539315.1	GCF_022539315.1_serCan2020_genomic.fna	Seri_cana	serCan	Serinus_canaria
+GCA_001746935.2	GCA_001746935.2_mywa_2.1_genomic.fna	Seto_coro	setCor	Setophaga_coronata
+GCA_032173965.1	GCA_032173965.1_ASM3217396v1_genomic.fna	Sitt_caro	sitCar	Sitta_carolinensis
+GCA_053477405.1	GCA_053477405.1_bSpiPin_pri1.0_genomic.fna	Spin_pinu	spiPin	Spinus_pinus
+GCA_052056855.1	GCA_052056855.1_bStuVul1.hap1_genomic.fna	Stur_vulg	stuVul	Sturnus_vulgaris
+GCF_009819655.1	GCF_009819655.1_bSylAtr1.pri_genomic.fna	Sylv_atri	sylAtr	Sylvia_atricapilla
+GCA_014839755.1	GCA_014839755.1_bSylBor1.pri_genomic.fna	Sylv_bori	sylBor	Sylvia_borin
+GCF_048771995.1	GCF_048771995.1_bTaeGut7.mat_genomic.fna	Taen_gutt	taeGut	Taeniopygia_guttata
+GCA_965287035.1	GCA_965287035.1_bTurIli2.1_genomic.fna	Turd_ilia	turIli	Turdus_iliacus
+GCA_965287015.2	GCA_965287015.2_bTurMer3.2_genomic.fna	Turd_meru	turMer	Turdus_merula
+GCA_052324695.1	GCA_052324695.1_bTurMig1.hap1_genomic.fna	Turd_migr	turMig	Turdus_migratorius
+GCA_965287025.1	GCA_965287025.1_bTurPhi1.1_genomic.fna	Turd_phil	turPhi	Turdus_philomelos
+GCF_026979565.1	GCF_026979565.1_bVidCha1_merged_haplotype_genomic.fna	Vidu_chal	vidCha	Vidua_chalybeata
+GCF_024509145.1	GCF_024509145.1_ASM2450914v1_genomic.fna	Vidu_macr	vidMac	Vidua_macroura
+GCA_045364795.1	GCA_045364795.1_bWilVid1_haplotype_1_genomic.fna	Will_vidu	wilVid	Willisornis_vidua
+GCF_047830755.1	GCF_047830755.1_bZonAlb1.hap1_genomic.fna	Zono_albi	zonAlb	Zonotrichia_albicollis
+GCA_045269165.1	GCA_045269165.1_RI_Zcap_1.0_genomic.fna	Zono_cape	zonCap	Zonotrichia_capensis
+GCF_028769735.1	GCF_028769735.1_RI_Zleu_2.0_genomic.fna	Zono_leuc	zonLeu	Zonotrichia_leucophrys
+GCA_965231275.1	GCA_965231275.1_bZosLat1.hap1.1_genomic.fna	Zost_late	zosLat	Zosterops_lateralis
