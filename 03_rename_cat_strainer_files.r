@@ -27,14 +27,27 @@ for(a in 1:length(x_files)) {
 	names(sequences[[a]])[grep("/", names(sequences[[a]]), invert=T)] <- paste0(names(sequences[[a]])[grep("/", names(sequences[[a]]), invert=T)], "/", sapply(strsplit(names(sequences[[a]])[grep("/", names(sequences[[a]]), invert=T)], "#"), "[[", 2))
 }
 
+# combine all the sequences
 for(a in 1:length(x_files)) {
 	if(a == 1) {	
-		output <- sequences[[a]]
+		combined <- sequences[[a]]
 	} else {
-		output <- c(output, sequences[[a]])
+		combined <- c(combined, sequences[[a]])
 	}
 }
 
-writeXStringSet(output, "combined_families.fasta")
+# find all the superfamilies
+superfams <- sapply(strsplit(names(combined), "#"), "[[", 2)
+superfams_unique <- unique(superfams)
+superfams_names <- gsub("/", "_", superfams_unique)
+
+# write a fasta for each superfamily
+for(a in 1:length(superfams_unique)) {
+	a_rep <- combined[superfams == superfams_unique[a],]
+	a_name <- paste0(outdir, "/", superfams_names[a], ".fasta")
+	writeXStringSet(a_rep, a_name)
+}
+
+
 
 
