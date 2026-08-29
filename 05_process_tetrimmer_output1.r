@@ -65,8 +65,8 @@ for(a in 1:nrow(helper)) {
 
 # write names of outputs
 write(tetrimmer_keep_list, file="1_tetrimmer_keep_list.txt", ncolumns=1)
-write(earlgrey_keep_list, file="1_ earlgrey_keep_list.txt", ncolumns=1)
-write(throw_away_list, file="1_ throw_away_list.txt", ncolumns=1)
+write(earlgrey_keep_list, file="1_earlgrey_keep_list.txt", ncolumns=1)
+write(throw_away_list, file="1_throw_away_list.txt", ncolumns=1)
 
 
 
