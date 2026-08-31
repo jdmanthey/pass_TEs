@@ -82,7 +82,7 @@ GCA_045269165.1	GCA_045269165.1_RI_Zcap_1.0_genomic.fna	Zono_cape	zonCap	Zonotri
 GCF_028769735.1	GCF_028769735.1_RI_Zleu_2.0_genomic.fna	Zono_leuc	zonLeu	Zonotrichia_leucophrys
 GCA_965231275.1	GCA_965231275.1_bZosLat1.hap1.1_genomic.fna	Zost_late	zosLat	Zosterops_lateralis
 GCA_977063075.1	GCA_977063075.1_Seychelles_warbler_reference_genome_genomic.fna	Acro_sech	acrSec	Acrocephalus_sechellensis
-GCA_055754725.1	GCA_055754725.1_bBaeBic1.hap1_genomic.fna	Baeo_bico	baeBic	Baeolophus_bicolor
+GCA_055761795.1	GCA_055761795.1_bBaeBic1.hap1_genomic.fna	Baeo_bico	baeBic	Baeolophus_bicolor
 GCA_057381115.1	GCA_057381115.1_CecDau_genomic.fna	Cecr_daur	cecDau	Cecropis_daurica
 GCA_057427935.1	GCA_057427935.1_bDumCar1.hap1_genomic.fna	Dume_caro	dumCar	Dumetella_carolinensis
 GCA_055672795.1	GCA_055672795.1_ASM5567279v1_genomic.fna	Embe_pusi	embPus	Emberiza_pusilla
