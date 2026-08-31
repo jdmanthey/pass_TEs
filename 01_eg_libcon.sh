@@ -5,7 +5,7 @@
 #SBATCH --nodes=1 --ntasks=120
 #SBATCH --time=48:00:00
 #SBATCH --mem-per-cpu=4G
-#SBATCH --array=1-83
+#SBATCH --array=1-107
 
 source activate earlygrey
 
