@@ -2,12 +2,12 @@
 #SBATCH --chdir=./
 #SBATCH --job-name=tetrimmer
 #SBATCH --partition nocona
-#SBATCH --nodes=1 --ntasks=30
+#SBATCH --nodes=1 --ntasks=40
 #SBATCH --time=48:00:00
 #SBATCH --mem-per-cpu=4G
-#SBATCH --array=1-83
+#SBATCH --array=1-107
 
-threads=30
+threads=40
 
 # define main working directory
 workdir=/lustre/scratch/jmanthey/03_passtes
