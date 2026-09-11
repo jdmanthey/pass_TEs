@@ -1,7 +1,7 @@
 library(Biostrings)
 
 # remove threshold
-rm_thresh <- 0.9
+rm_thresh <- 0.95
 # classify threshold
 class_thresh <- 0.8
 # length threshold for removal
