@@ -101,7 +101,6 @@ GCA_057534655.1	GCA_057534655.1_Pacu_hecki_V1_genomic.fna	Poep_acut	poeAcu	Poeph
 GCA_054913815.1	GCA_054913815.1_ASM5491381v1_genomic.fna	Pter_cour	pteCou	Pterorhinus_courtoisi
 GCA_055001455.1	GCA_055001455.1_ICG_Riri_1_genomic.fna	Ripa_ripa	ripRip	Riparia_riparia
 GCA_055470965.1	GCA_055470965.1_bSayPho3.hap1_genomic.fna	Sayo_phoe	sayPho	Sayornis_phoebe
-GCA_055764355.1	GCA_055764355.1_bSerCaa1.mat_genomic.fna	Seri_cana	serCan	Serinus_canaria
 GCA_057381415.1	GCA_057381415.1_bSpiTri1.hap1_genomic.fna	Spin_tris	spiTri	Spinus_tristis
 GCA_056783625.1	GCA_056783625.1_bSpiPas1.hap1_genomic.fna	Spiz_pass	spiPas	Spizella_passerina
 GCA_057917895.1	GCA_057917895.1_bTroAed1.hap1_genomic.fna	Trog_aedo	troAed	Troglodytes_aedon
