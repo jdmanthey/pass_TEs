@@ -19,7 +19,7 @@ fasta_array=$( head -n${SLURM_ARRAY_TASK_ID} ${workdir}/raw_reference_list.txt |
 
 name_array=$( head -n${SLURM_ARRAY_TASK_ID} ${workdir}/raw_reference_list.txt | tail -n1 | cut -f3)
 
-# run Earl Grey for library construction from the reference
+# run ULTRA
 ultra ${workdir}/raw_reference_genomes/${directory_array}/${fasta_array} --threads $threads \
 -o ${name_array}.ultra.txt --pval
 
