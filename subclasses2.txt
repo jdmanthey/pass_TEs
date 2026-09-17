@@ -1,0 +1,154 @@
+L1	LINE/L1
+Dada	DNA/Dada
+Gypsy	LTR/Gypsy
+ERV1	LTR/ERV1
+hAT	DNA/hAT
+R2	LINE/R2
+ERV4	LTR/ERV4
+RTEX	LINE/RTEX
+DIRS	LTR/DIRS
+Tx1	Tx1/Tx1
+Merlin	DNA/Merlin
+Helitron	DNA/Helitron
+BEL	LTR/BEL
+IS3EU	DNA/IS3EU
+DNA transposon	DNA/DNA transposon
+Harbinger	DNA/Harbinger
+Kolobok	DNA/Kolobok
+Vingi	LINE/Vingi
+Polinton	DNA/Polinton
+Troyka	LTR/Troyka
+Academ	DNA/Academ
+Neptune	Penelope/Neptune
+Mariner/Tc1	DNA/Mariner-Tc1
+SINE2/tRNA	tRNA
+Copia	LTR/Copia
+piggyBac	DNA/piggyBac
+ERV2	LTR/ERV2
+ERV3	LTR/ERV3
+L2	LINE/L2
+SAT	Satellite
+RTE	LINE/RTE
+Rex1	LINE/Rex1
+EnSpm/CACTA	DNA/EnSpm-CACTA
+Daphne	LINE/Daphne
+CR1	LINE/CR1
+REP-24_CPB	REP-24_CPB
+LTR Retrotransposon	LTR
+Crypton	DNA/Crypton
+endogenous retrovirus	LTR/ERV
+Penelope	Penelope/Penelope
+Nimb	LINE/Nimb
+Multicopy gene	Multicopy gene
+Transposable Element	Transposable Element
+Lokiretrovirus	LTR/Lokiretrovirus
+Satellite	Satellite
+Penelope/Poseidon	Penelope/Poseidon
+Crack	LINE/Crack
+SINE3/5S	SINE/5S
+Endogenous Retrovirus	LTR/ERV
+SINEU/snRNA	SINE/snRNA
+CryptonA	DNA/CryptonA
+REP-36_CPB	REP-36_CPB
+CryptonV	DNA/CryptonV
+conserved	conserved
+Loki-Lca-I	LTR/Loki-Lca-I
+Nonautonomous	Nonautonomous
+Loki-1_FuHe-LTR	LTR/Loki-1_FuHe-LTR
+tRNA	tRNA
+Sola2	DNA/Sola2
+REP-33_CPB	REP-33_CPB
+Loki-1_GeSe-LTR	LTR/Loki-1_GeSe-LTR
+Hero	LINE/Hero
+REP-35_CPB	REP-35_CPB
+Non-LTR Retrotransposon	LINE
+Proto2	LINE/Proto2
+Loki-1_CaAu-LTR	LTR/Loki-1_CaAu-LTR
+MSAT	MSAT
+Loki-Ofa-I	LTR/Loki-Ofa-I
+Zisupton	DNA/Zisupton
+Sola1	DNA/Sola1
+ERV-2_PM-I	LTR/ERV-2_PM-I
+ISL2EU	DNA/ISL2EU
+SINE	SINE
+REP-32_CPB	REP-32_CPB
+Inverted repeat	Inverted repeat
+CoeEFV-LTR	LTR/CoeEFV-LTR
+Loki-1_BarBar-LTR	LTR/Loki-1_BarBar-LTR
+Loki-Oja-I	LTR/Loki-Oja-I
+Loki-3_CaAu-LTR	LTR/Loki-3_CaAu-LTR
+Loki-2_BuBu-LTR	LTR/Loki-2_BuBu-LTR
+MuDR	DNA/MuDR
+REP-540_Croc	REP-540_Croc
+Loki-1_GeSe-I	LTR/Loki-1_GeSe-I
+NeSL	LINE/NeSL
+ERV-1_PM-I	LTR/ERV-1_PM-I
+REP-21_CPB	REP-21_CPB
+REP-11_CPB	REP-11_CPB
+P	DNA/P
+R4	LINE/R4
+REP-23_CPB	REP-23_CPB
+Ginger1	DNA/Ginger1
+CAM2_GG	CAM2_GG
+Repeat region	Repeat region
+Ginger2/TDD	DNA/Ginger2/TDD
+Loki-Sme-I	LTR/Loki-Sme-I
+Loki-4_CaAu-LTR	LTR/Loki-4_CaAu-LTR
+Loki-1_LeLe-I	LTR/Loki-1_LeLe-I
+Loki-1_BuBu-LTR	LTR/Loki-1_BuBu-LTR
+REP-33B_CPB	REP-33B_CPB
+Loki-1_FuHe-I	LTR/Loki-1_FuHe-I
+Loki-1_LeLe-LTR	LTR/Loki-1_LeLe-LTR
+JH12_XL	JH12_XL
+REP-10_CPB	REP-10_CPB
+REP-1_Croc	REP-1_Croc
+Transib	Transib
+Loki-1_ThAm-LTR	LTR/Loki-1_ThAm-LTR
+Loki-1_ThAm-I	LTR/Loki-1_ThAm-I
+REP-17_CPB	REP-17_CPB
+Zator	DNA/Zator
+Loki-Bsp-I	LTR/Loki-Bsp-I
+Loki-2_SpAu-LTR	LTR/Loki-2_SpAu-LTR
+Loki-Dcl-I	LTR/Loki-Dcl-I
+FPREP1	FPREP1
+Loki-3_BarBar-LTR	LTR/Loki-3_BarBar-LTR
+Loki-2_BuBu-I	LTR/Loki-2_BuBu-I
+MSRBMI	MSRBMI
+REP-19_CPB	REP-19_CPB
+DNA Virus	DNA Virus
+REP-13_CPB	REP-13_CPB
+Interspersed repeat	Interspersed repeat
+REP-1_EL	REP-1_EL
+Repetitive sequence	Repetitive sequence
+XbaI	XbaI
+Loki-Pfl-I	LTR/Loki-Pfl-I
+Naiad/Chlamys	Penelope/Naiad-Chlamys
+LTR retrotransposon	LTR
+CENSTRIG	CENSTRIG
+Loki-1_CaAu-I	LTR/Loki-1_CaAu-I
+HIND3_MS	HIND3_MS
+Loki-1_SpAu-LTR	LTR/Loki-1_SpAu-LTR
+Loki-2_BarBar-LTR	LTR/Loki-2_BarBar-LTR
+Loki-Lch-I	LTR/Loki-Lch-I
+Loki-Bpe-I	LTR/Loki-Bpe-I
+REP-29_CPB	REP-29_CPB
+(CA)n related	(CA)n related
+REP-15_CPB	REP-15_CPB
+Loki-Cne-I	LTR/Loki-Cne-I
+AVIXHoI	AVIXHoI
+Loki-3_CaAu-I	LTR/Loki-3_CaAu-I
+Loki-Aro-I	LTR/Loki-Aro-I
+Loki-Pyo-I	LTR/Loki-Pyo-I
+PTR_XL	PTR_XL
+Loki-2_CaAu-LTR	LTR/Loki-2_CaAu-LTR
+Loki-2_SpAu-I	LTR/Loki-2_SpAu-I
+REP-18_CPB	REP-18_CPB
+SINE1/7SL	SINE/SINE1/7SL
+Charlie-Galluhop	DNA/Charlie-Galluhop
+Loki-1_CuAl-LTR	LTR/Loki-1_CuAl-LTR
+Loki-4_CaAu-I	LTR/Loki-4_CaAu-I
+RP5S	RP5S
+Loki-2_CaAu-I	LTR/Loki-2_CaAu-I
+Loki-1_CuAl-I	LTR/Loki-1_CuAl-I
+Loki-1_SpAu-I	LTR/Loki-1_SpAu-I
+LTR-775_Gav_odd	LTR/LTR-775_Gav_odd
