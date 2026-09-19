@@ -66,13 +66,15 @@ for(a in 1:length(x_files)) {
 		mark_for_removal <- c()
 		for(d in TEs_to_check) {
 			d_rep <- bp_list[[d]]
-			if(length(d_rep) > 1) { # at least two bp in TE
+			if(length(d_rep) > 1) { # at least two bp in TE 
 				# check that all bp are 1 bp apart
 				if(max(diff(d_rep)) == 1) {
 					# replace start and end values of TE (may or may not change original value)
 					b_rep$q_start[d] <- min(d_rep)
 					b_rep$q_end[d] <- max(d_rep)
-				} else { # if the bp are split apart
+				} else if(length(d_rep) == 2 & diff(d_rep)[1] > 1) { # only two bp and split
+					mark_for_removal <- c(mark_for_removal, d)
+				} else { # if the bp are split apart and more than two bp
 					d_diff <- diff(d_rep)
 					# check that the split is not just the first or last bp
 					if(d_diff[1] > 1) {
