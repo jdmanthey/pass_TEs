@@ -19,8 +19,11 @@ fasta_array=$( head -n${SLURM_ARRAY_TASK_ID} ${workdir}/raw_reference_list.txt |
 
 name_array=$( head -n${SLURM_ARRAY_TASK_ID} ${workdir}/raw_reference_list.txt | tail -n1 | cut -f3)
 
+# make output directory 
+mkdir -p ${workdir}/09_repeatmask/${name_array}
+
 # run Repeat Masker
 RepeatMasker -pa $threads -s \
 -lib ~/RepeatMasker/Libraries/vertebrate_repbase_31.08_added2.fasta \
--dir ${name_array} \
+-dir ${workdir}/09_repeatmask/${name_array} \
 ${workdir}/raw_reference_genomes/${directory_array}/${fasta_array}
