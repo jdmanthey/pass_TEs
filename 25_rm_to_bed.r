@@ -15,7 +15,7 @@ for(a in 1:length(x_files)) {
 	output <- data.frame(id=as.character(a_rep$query), start=as.numeric(a_rep$q_start), end=as.numeric(a_rep$q_end))
 	
 	output_file <- paste0(input_file, ".bed")
-	write.table(output, file=output_file, quote=F, col.names=F, row.names=F)
+	write.table(output, file=output_file, quote=F, col.names=F, row.names=F, sep="/t")
 }
 	
 	
